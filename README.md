@@ -26,7 +26,7 @@ Any attempts to initiate chargebacks or disputes through your payment provider w
 ## **Contact for Support**  
 If you encounter issues with Prime, we encourage you to contact our **support team**. We are committed to resolving problems promptly and ensuring a great user experience.
 
-- **Support Contact:** [Your Support Email/Discord Link Here](https://discord.gg/VMkv79vBfX)  
+- **Support Contact:** [Click here to redirect!](https://discord.gg/VMkv79vBfX)  
 
 ---
 
